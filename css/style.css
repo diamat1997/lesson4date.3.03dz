@@ -29,11 +29,11 @@ body{
 .sunset{
     padding: 10px auto;
     margin: 20px auto;
-    width: 712px;
+    max-width: 712px;
 }
 
 .cars{
-    max-width: 970px
+    text-align: center;
 /* не уверен работает ли */
 }
 
@@ -47,6 +47,7 @@ body{
     padding: 15px 100px;
     margin: 0 auto;
     font-size: 18px;
+    max-width: 712px;
 }
 
 b{
@@ -62,6 +63,8 @@ i{
     padding: 15px 100px;
     margin: 0 auto;
     font-size: 18px;
+    max-width: 712px;
+    width: 100%;
 }
 
 .footer{
