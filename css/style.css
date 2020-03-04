@@ -24,7 +24,6 @@ body{
     background:  rgb(153, 77, 70);;
     color: #ffffff;
     font-size: 30px;
-    font-weight: 700;
 }
 
 .sunset{
@@ -48,15 +47,14 @@ body{
     padding: 15px 100px;
     margin: 0 auto;
     font-size: 18px;
-    font-weight: 700;
 }
 
 b{
-    font-style: bolder;
+    font-weight: bold;
 }
 
 i{
-    font-style: oblique
+    font-style: oblique;
 }
 
 .incomprehensible_text_2{
@@ -64,7 +62,6 @@ i{
     padding: 15px 100px;
     margin: 0 auto;
     font-size: 18px;
-    font-weight: 700;
 }
 
 .footer{
@@ -75,5 +72,4 @@ i{
     background: rgb(0, 0, 0);
     color: #ffffff;
     font-size: 20px;
-    font-weight: 700;
     }
