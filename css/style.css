@@ -1,0 +1,79 @@
+body{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: rgb(0, 0, 0)
+}
+.container {
+    width: 100%;
+    max-width: 970px;
+    min-width: 360px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.header{
+    text-align: center;
+    padding: 10px auto;
+    margin: 80px auto;
+}
+
+.title{
+    text-align: center;
+    padding: 15px 100px;
+    margin: 0 auto;
+    display:  block;
+    background:  rgb(153, 77, 70);;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.sunset{
+    padding: 10px auto;
+    margin: 20px auto;
+    width: 712px;
+}
+
+.cars{
+    max-width: 970px
+/* не уверен работает ли */
+}
+
+.car{
+    border: 1px dashed #000000;
+    padding: 1px;
+}
+
+.incomprehensible_text_1{
+    text-align: center;
+    padding: 15px 100px;
+    margin: 0 auto;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+b{
+    font-style: bolder;
+}
+
+i{
+    font-style: oblique
+}
+
+.incomprehensible_text_2{
+    text-align: center;
+    padding: 15px 100px;
+    margin: 0 auto;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.footer{
+    text-align: center;
+    padding: 10px 100px;
+    margin: 0 auto;
+    display:  block;
+    background: rgb(0, 0, 0);
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    }
