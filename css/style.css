@@ -4,7 +4,7 @@ body{
 }
 .container {
     width: 100%;
-    max-width: 970px;
+    max-width: 712px;
     min-width: 360px;
     padding: 0 15px;
     margin: 0 auto;
@@ -13,13 +13,13 @@ body{
 .header{
     text-align: center;
     padding: 10px auto;
-    margin: 80px auto;
+    margin: 10px auto;
 }
 
 .title{
     text-align: center;
     padding: 15px 100px;
-    margin: 0 auto;
+    margin: 80px auto 5px;
     display:  block;
     background:  rgb(153, 77, 70);;
     color: #ffffff;
@@ -34,19 +34,23 @@ body{
 
 .cars{
     text-align: center;
+    padding: 10px auto;
+    margin: 20px auto;
 /* не уверен работает ли */
 }
 
 .car{
     border: 1px dashed #000000;
     padding: 1px;
+    margin: 1px 1px;
 }
 
 .incomprehensible_text_1{
     text-align: center;
-    padding: 15px 100px;
+    padding: 15px auto;
     margin: 0 auto;
     font-size: 18px;
+    width: 100%;
     max-width: 712px;
 }
 
@@ -60,17 +64,17 @@ i{
 
 .incomprehensible_text_2{
     text-align: center;
-    padding: 15px 100px;
-    margin: 0 auto;
+    padding: 15px auto;
+    margin: 15 auto;
     font-size: 18px;
-    max-width: 712px;
     width: 100%;
+    max-width: 712px;
 }
 
 .footer{
     text-align: center;
-    padding: 10px 100px;
-    margin: 0 auto;
+    padding: 20px auto;
+    margin: 0px auto 20px;
     display:  block;
     background: rgb(0, 0, 0);
     color: #ffffff;
